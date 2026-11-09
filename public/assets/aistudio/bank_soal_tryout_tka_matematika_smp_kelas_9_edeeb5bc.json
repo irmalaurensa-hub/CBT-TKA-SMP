@@ -1,0 +1,1227 @@
+{
+  "judul": "Bank Soal Tryout TKA Matematika SMP Kelas 9",
+  "versi": "1.0",
+  "bahasa": "id",
+  "jenjang": "SMP",
+  "kelas": 9,
+  "mata_pelajaran": "Matematika",
+  "jumlah_soal": 60,
+  "catatan": "Bank soal latihan yang disusun mengacu pada elemen resmi TKA Matematika SMP: Bilangan, Aljabar, Geometri dan Pengukuran, serta Data dan Peluang. Bukan naskah resmi pemerintah.",
+  "referensi": [
+    {
+      "judul": "Kerangka Asesmen TKA Matematika SMP/MTs",
+      "url": "https://pusmendik.kemendikdasmen.go.id/tka/kerangka/smp/"
+    },
+    {
+      "judul": "FAQ Tes Kemampuan Akademik (TKA)",
+      "url": "https://pusatinformasi.ult.kemendikdasmen.go.id/hc/id/articles/52001769236249-FAQ-Tes-Kemampuan-Akademik-TKA"
+    }
+  ],
+  "petunjuk_tipe_soal": {
+    "pilihan_ganda": "Pilih satu jawaban yang paling tepat. jawaban_benar berupa satu huruf.",
+    "pilihan_ganda_kompleks": "Pilih semua jawaban yang benar. jawaban_benar berupa daftar huruf dipisahkan koma.",
+    "kategori": "Untuk format kategori, pilihan dapat berupa pernyataan dan jawaban berupa kategori per pernyataan."
+  },
+  "soal": [
+    {
+      "id": "TKA9-001",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Bilangan",
+      "materi": "Operasi bilangan bulat",
+      "level_kognitif": "Knowing",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Suhu di sebuah kota pada pagi hari adalah −3°C. Siang hari suhu naik 8°C, kemudian malam hari turun 5°C. Suhu pada malam hari adalah ....",
+      "pilihan": {
+        "A": "0°C",
+        "B": "−1°C",
+        "C": "1°C",
+        "D": "−2°C"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Suhu akhir = −3 + 8 − 5 = 0°C."
+    },
+    {
+      "id": "TKA9-002",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Bilangan",
+      "materi": "Operasi pecahan",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Ibu memiliki 3/4 kg tepung. Sebanyak 2/5 kg digunakan untuk membuat kue. Sisa tepung adalah ....",
+      "pilihan": {
+        "A": "7/20 kg",
+        "B": "3/20 kg",
+        "C": "1/2 kg",
+        "D": "2/9 kg"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Samakan penyebut: 3/4 − 2/5 = 15/20 − 8/20 = 7/20 kg."
+    },
+    {
+      "id": "TKA9-003",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Bilangan",
+      "materi": "Bilangan berpangkat",
+      "level_kognitif": "Knowing",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Nilai dari 2³ × 2⁴ adalah ....",
+      "pilihan": {
+        "A": "2⁷",
+        "B": "2¹²",
+        "C": "4⁷",
+        "D": "2¹"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Untuk basis sama, pangkat dijumlahkan: 2³ × 2⁴ = 2⁷."
+    },
+    {
+      "id": "TKA9-004",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Bilangan",
+      "materi": "Bentuk akar",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Bentuk sederhana dari √72 adalah ....",
+      "pilihan": {
+        "A": "6√2",
+        "B": "8√2",
+        "C": "4√3",
+        "D": "3√8"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "√72 = √(36 × 2) = 6√2."
+    },
+    {
+      "id": "TKA9-005",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Bilangan",
+      "materi": "Notasi ilmiah",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Jarak sebuah partikel pada skala mikroskopis ditulis 0,0000048 meter. Bentuk notasi ilmiahnya adalah ....",
+      "pilihan": {
+        "A": "4,8 × 10⁻⁶ m",
+        "B": "4,8 × 10⁻⁵ m",
+        "C": "48 × 10⁻⁶ m",
+        "D": "0,48 × 10⁻⁶ m"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Koma digeser 6 tempat ke kanan sehingga diperoleh 4,8 × 10⁻⁶."
+    },
+    {
+      "id": "TKA9-006",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Bilangan",
+      "materi": "Faktorisasi prima",
+      "level_kognitif": "Knowing",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Faktorisasi prima dari 180 adalah ....",
+      "pilihan": {
+        "A": "2² × 3² × 5",
+        "B": "2 × 3² × 5²",
+        "C": "2² × 3 × 5²",
+        "D": "2³ × 3 × 5"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "180 = 18 × 10 = (2 × 3²) × (2 × 5) = 2² × 3² × 5."
+    },
+    {
+      "id": "TKA9-007",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Bilangan",
+      "materi": "Rasio",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Perbandingan banyak siswa laki-laki dan perempuan di kelas adalah 3 : 5. Jika jumlah seluruh siswa 32 orang, banyak siswa perempuan adalah ....",
+      "pilihan": {
+        "A": "12",
+        "B": "18",
+        "C": "20",
+        "D": "24"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Jumlah bagian 8. Satu bagian = 32 ÷ 8 = 4, sehingga perempuan = 5 × 4 = 20."
+    },
+    {
+      "id": "TKA9-008",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Bilangan",
+      "materi": "Skala",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Jarak dua kota pada peta adalah 6 cm. Jika skala peta 1 : 250.000, jarak sebenarnya kedua kota adalah ....",
+      "pilihan": {
+        "A": "1,5 km",
+        "B": "15 km",
+        "C": "150 km",
+        "D": "2,5 km"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Jarak sebenarnya = 6 × 250.000 cm = 1.500.000 cm = 15.000 m = 15 km."
+    },
+    {
+      "id": "TKA9-009",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Bilangan",
+      "materi": "Perbandingan senilai",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Untuk membuat 20 gelas minuman diperlukan 2 liter sirup. Dengan takaran yang sama, sirup untuk 35 gelas adalah ....",
+      "pilihan": {
+        "A": "2,5 liter",
+        "B": "3 liter",
+        "C": "3,5 liter",
+        "D": "4 liter"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Perbandingan senilai: 2 × 35/20 = 3,5 liter."
+    },
+    {
+      "id": "TKA9-010",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Bilangan",
+      "materi": "Perbandingan berbalik nilai",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Sebuah pekerjaan selesai dalam 12 hari oleh 8 pekerja. Jika kemampuan setiap pekerja sama dan jumlah pekerja menjadi 6 orang, pekerjaan selesai dalam ....",
+      "pilihan": {
+        "A": "8 hari",
+        "B": "14 hari",
+        "C": "16 hari",
+        "D": "18 hari"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Banyak pekerja dan waktu berbanding terbalik: 8 × 12 = 6 × t, sehingga t = 16 hari."
+    },
+    {
+      "id": "TKA9-011",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Bilangan",
+      "materi": "Laju perubahan",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sulit",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Sebuah kendaraan menempuh 150 km dengan 10 liter bahan bakar. Jika efisiensi tetap, bahan bakar yang diperlukan untuk menempuh 225 km adalah ....",
+      "pilihan": {
+        "A": "12 liter",
+        "B": "15 liter",
+        "C": "18 liter",
+        "D": "20 liter"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Konsumsi = 10/150 liter per km. Untuk 225 km: 225 × 10/150 = 15 liter."
+    },
+    {
+      "id": "TKA9-012",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Bilangan",
+      "materi": "Estimasi",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Rani membeli 3 barang seharga Rp19.800, Rp32.400, dan Rp48.700. Taksiran paling dekat untuk total belanja dengan pembulatan ke ribuan terdekat adalah ....",
+      "pilihan": {
+        "A": "Rp90.000",
+        "B": "Rp100.000",
+        "C": "Rp101.000",
+        "D": "Rp110.000"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Pembulatan: 20.000 + 32.000 + 49.000 = 101.000. Taksiran ke puluhan ribu terdekat adalah sekitar Rp100.000."
+    },
+    {
+      "id": "TKA9-013",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Bilangan",
+      "materi": "Bilangan rasional",
+      "level_kognitif": "Knowing",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Bilangan yang nilainya paling besar adalah ....",
+      "pilihan": {
+        "A": "0,62",
+        "B": "5/8",
+        "C": "61%",
+        "D": "0,6"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "5/8 = 0,625, lebih besar daripada 0,62, 0,61, dan 0,6."
+    },
+    {
+      "id": "TKA9-014",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Bilangan",
+      "materi": "Rasio dan proporsi",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sulit",
+      "tipe_soal": "pilihan_ganda_kompleks",
+      "pertanyaan": "Sebuah resep untuk 4 porsi membutuhkan 300 gram beras dan 600 ml air. Pilih semua pernyataan yang benar jika resep dibuat untuk 10 porsi.",
+      "pilihan": {
+        "A": "Beras yang diperlukan 750 gram",
+        "B": "Air yang diperlukan 1.500 ml",
+        "C": "Perbandingan beras dan air menjadi 1 : 3",
+        "D": "Jumlah air bertambah 900 ml"
+      },
+      "jawaban_benar": "A,B,D",
+      "pembahasan": "Faktor pengali = 10/4 = 2,5. Beras = 750 g dan air = 1.500 ml. Air bertambah 900 ml. Rasio beras:air tetap 1:2, bukan 1:3."
+    },
+    {
+      "id": "TKA9-015",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Aljabar",
+      "materi": "Persamaan linear satu variabel",
+      "level_kognitif": "Knowing",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Nilai x yang memenuhi 3x + 7 = 25 adalah ....",
+      "pilihan": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "3x = 25 − 7 = 18, sehingga x = 6."
+    },
+    {
+      "id": "TKA9-016",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Aljabar",
+      "materi": "Pertidaksamaan linear",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Pertidaksamaan 2x − 5 < 9 memiliki himpunan penyelesaian ....",
+      "pilihan": {
+        "A": "x < 2",
+        "B": "x < 7",
+        "C": "x > 7",
+        "D": "x > 2"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "2x < 14, sehingga x < 7."
+    },
+    {
+      "id": "TKA9-017",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Aljabar",
+      "materi": "SPLDV",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Harga 2 buku dan 1 pensil adalah Rp11.000. Harga 1 buku dan 2 pensil adalah Rp10.000. Harga sebuah buku adalah ....",
+      "pilihan": {
+        "A": "Rp3.000",
+        "B": "Rp4.000",
+        "C": "Rp5.000",
+        "D": "Rp6.000"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Dari 2b+p=11.000 dan b+2p=10.000. Kalikan persamaan kedua dengan 2: 2b+4p=20.000. Selisih dengan persamaan pertama memberi 3p=9.000, p=3.000. Maka b=4.000."
+    },
+    {
+      "id": "TKA9-018",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Aljabar",
+      "materi": "Operasi bentuk aljabar",
+      "level_kognitif": "Knowing",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Hasil penyederhanaan 4a − 3b + 2a + 5b adalah ....",
+      "pilihan": {
+        "A": "6a + 2b",
+        "B": "6a − 8b",
+        "C": "2a + 2b",
+        "D": "6a + 8b"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Gabungkan suku sejenis: 4a+2a=6a dan −3b+5b=2b."
+    },
+    {
+      "id": "TKA9-019",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Aljabar",
+      "materi": "Sifat distributif",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Bentuk sederhana dari 3(2x − 4) + 5 adalah ....",
+      "pilihan": {
+        "A": "6x − 12",
+        "B": "6x − 7",
+        "C": "6x + 1",
+        "D": "6x − 17"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "3(2x−4)+5 = 6x−12+5 = 6x−7."
+    },
+    {
+      "id": "TKA9-020",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Aljabar",
+      "materi": "Fungsi",
+      "level_kognitif": "Knowing",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Diketahui f(x) = 2x + 3. Nilai f(4) adalah ....",
+      "pilihan": {
+        "A": "8",
+        "B": "9",
+        "C": "11",
+        "D": "14"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "f(4) = 2(4)+3 = 11."
+    },
+    {
+      "id": "TKA9-021",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Aljabar",
+      "materi": "Domain dan range",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Relasi dari A = {1, 2, 3} ke B = {2, 4, 6, 8} ditentukan oleh y = 2x. Range relasi tersebut adalah ....",
+      "pilihan": {
+        "A": "{1, 2, 3}",
+        "B": "{2, 4, 6}",
+        "C": "{2, 4, 6, 8}",
+        "D": "{4, 6, 8}"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Untuk x = 1, 2, 3 diperoleh y = 2, 4, 6. Jadi range = {2,4,6}."
+    },
+    {
+      "id": "TKA9-022",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Aljabar",
+      "materi": "Representasi fungsi",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sulit",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Tarif parkir terdiri atas biaya awal Rp3.000 dan tambahan Rp2.000 untuk setiap jam. Jika lama parkir x jam, model biaya total T(x) adalah ....",
+      "pilihan": {
+        "A": "T(x)=3.000x+2.000",
+        "B": "T(x)=2.000x+3.000",
+        "C": "T(x)=5.000x",
+        "D": "T(x)=2.000(x+3.000)"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Biaya total merupakan biaya awal ditambah biaya per jam, yaitu T(x)=3.000+2.000x."
+    },
+    {
+      "id": "TKA9-023",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Aljabar",
+      "materi": "Barisan aritmetika",
+      "level_kognitif": "Knowing",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Barisan 5, 9, 13, 17, ... memiliki suku ke-10 sebesar ....",
+      "pilihan": {
+        "A": "37",
+        "B": "39",
+        "C": "41",
+        "D": "45"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "a=5 dan beda=4. U10 = 5 + 9×4 = 41."
+    },
+    {
+      "id": "TKA9-024",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Aljabar",
+      "materi": "Deret aritmetika",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Jumlah 10 suku pertama deret 2 + 5 + 8 + 11 + ... adalah ....",
+      "pilihan": {
+        "A": "145",
+        "B": "150",
+        "C": "155",
+        "D": "160"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "a=2, beda=3. U10=29. S10=10/2 × (2+29)=155."
+    },
+    {
+      "id": "TKA9-025",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Aljabar",
+      "materi": "Pola bilangan",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Pola banyak ubin pada suatu susunan adalah 4, 7, 10, 13, .... Jika pola berlanjut, banyak ubin pada susunan ke-8 adalah ....",
+      "pilihan": {
+        "A": "22",
+        "B": "25",
+        "C": "28",
+        "D": "31"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Barisan aritmetika dengan a=4 dan beda 3. U8=4+7×3=25."
+    },
+    {
+      "id": "TKA9-026",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Aljabar",
+      "materi": "SPLDV kontekstual",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sulit",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Di kantin, 3 roti dan 2 susu berharga Rp31.000, sedangkan 2 roti dan 1 susu berharga Rp19.000. Harga satu roti adalah ....",
+      "pilihan": {
+        "A": "Rp5.000",
+        "B": "Rp6.000",
+        "C": "Rp7.000",
+        "D": "Rp8.000"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Dari 2r+s=19 diperoleh s=19−2r. Substitusi ke 3r+2s=31 menghasilkan 3r+38−4r=31, sehingga r=7. Harga satu roti Rp7.000."
+    },
+    {
+      "id": "TKA9-027",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Aljabar",
+      "materi": "Pertidaksamaan dalam konteks",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Sebuah bus memiliki kapasitas paling banyak 40 penumpang. Sudah ada 27 penumpang. Jika x adalah tambahan penumpang, pertidaksamaan yang tepat adalah ....",
+      "pilihan": {
+        "A": "27+x < 40",
+        "B": "27+x ≤ 40",
+        "C": "27+x ≥ 40",
+        "D": "27−x ≤ 40"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Paling banyak berarti kurang dari atau sama dengan, sehingga 27+x ≤ 40."
+    },
+    {
+      "id": "TKA9-028",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Aljabar",
+      "materi": "Sifat operasi aljabar",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda_kompleks",
+      "pertanyaan": "Diketahui bentuk 2(x+3) − x. Pilih semua bentuk yang ekuivalen.",
+      "pilihan": {
+        "A": "x + 6",
+        "B": "2x + 6 − x",
+        "C": "x + 3",
+        "D": "3x + 6"
+      },
+      "jawaban_benar": "A,B",
+      "pembahasan": "Dengan sifat distributif: 2x+6−x = x+6. Jadi A dan B benar."
+    },
+    {
+      "id": "TKA9-029",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Aljabar",
+      "materi": "Barisan dan deret",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sulit",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Sebuah gedung memiliki 12 baris kursi. Baris pertama berisi 18 kursi dan setiap baris berikutnya bertambah 2 kursi. Jumlah seluruh kursi adalah ....",
+      "pilihan": {
+        "A": "336",
+        "B": "348",
+        "C": "348",
+        "D": "360"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Barisan aritmetika: a=18, d=2, n=12. U12=40. Jumlah = 12/2 × (18+40)=348."
+    },
+    {
+      "id": "TKA9-030",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Geometri dan Pengukuran",
+      "materi": "Hubungan sudut",
+      "level_kognitif": "Knowing",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Dua sudut berpelurus. Jika salah satu sudut besarnya 68°, besar sudut lainnya adalah ....",
+      "pilihan": {
+        "A": "22°",
+        "B": "68°",
+        "C": "112°",
+        "D": "122°"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Sudut berpelurus berjumlah 180°. Jadi 180°−68°=112°."
+    },
+    {
+      "id": "TKA9-031",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Geometri dan Pengukuran",
+      "materi": "Sudut pada segitiga",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Sebuah segitiga memiliki dua sudut masing-masing 45° dan 65°. Besar sudut ketiga adalah ....",
+      "pilihan": {
+        "A": "60°",
+        "B": "70°",
+        "C": "80°",
+        "D": "90°"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Jumlah sudut segitiga 180°. Sudut ketiga = 180°−45°−65°=70°."
+    },
+    {
+      "id": "TKA9-032",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Geometri dan Pengukuran",
+      "materi": "Teorema Pythagoras",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Segitiga siku-siku memiliki sisi siku-siku 6 cm dan 8 cm. Panjang sisi miringnya adalah ....",
+      "pilihan": {
+        "A": "9 cm",
+        "B": "10 cm",
+        "C": "12 cm",
+        "D": "14 cm"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "c=√(6²+8²)=√100=10 cm."
+    },
+    {
+      "id": "TKA9-033",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Geometri dan Pengukuran",
+      "materi": "Pythagoras kontekstual",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Sebuah tangga panjangnya 13 m disandarkan pada dinding. Ujung bawah tangga berjarak 5 m dari dinding. Tinggi ujung tangga pada dinding adalah ....",
+      "pilihan": {
+        "A": "8 m",
+        "B": "10 m",
+        "C": "12 m",
+        "D": "18 m"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Tinggi = √(13²−5²)=√144=12 m."
+    },
+    {
+      "id": "TKA9-034",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Geometri dan Pengukuran",
+      "materi": "Kesebangunan",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Sebuah model menara dibuat dengan skala 1 : 200. Jika tinggi model 35 cm, tinggi menara sebenarnya adalah ....",
+      "pilihan": {
+        "A": "7 m",
+        "B": "35 m",
+        "C": "70 m",
+        "D": "700 m"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Tinggi sebenarnya = 35×200 = 7.000 cm = 70 m."
+    },
+    {
+      "id": "TKA9-035",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Geometri dan Pengukuran",
+      "materi": "Kekongruenan",
+      "level_kognitif": "Knowing",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Dua bangun datar dikatakan kongruen apabila ....",
+      "pilihan": {
+        "A": "Bentuknya sama, ukurannya boleh berbeda",
+        "B": "Luasnya selalu berbeda",
+        "C": "Bentuk dan ukurannya sama",
+        "D": "Kelilingnya sama saja"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Bangun kongruen memiliki bentuk dan ukuran sama, sehingga sisi dan sudut bersesuaian sama."
+    },
+    {
+      "id": "TKA9-036",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Geometri dan Pengukuran",
+      "materi": "Transformasi translasi",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Titik P(−2, 3) ditranslasikan oleh vektor (5, −4). Koordinat bayangan P adalah ....",
+      "pilihan": {
+        "A": "(3, −1)",
+        "B": "(−7, 7)",
+        "C": "(3, 7)",
+        "D": "(−1, 3)"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Tambahkan komponen vektor: (−2+5, 3−4)=(3,−1)."
+    },
+    {
+      "id": "TKA9-037",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Geometri dan Pengukuran",
+      "materi": "Refleksi",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Bayangan titik A(4, −3) oleh pencerminan terhadap sumbu-Y adalah ....",
+      "pilihan": {
+        "A": "(4, 3)",
+        "B": "(−4, −3)",
+        "C": "(−4, 3)",
+        "D": "(3, −4)"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Refleksi terhadap sumbu-Y mengubah tanda koordinat x: (x,y) menjadi (−x,y)."
+    },
+    {
+      "id": "TKA9-038",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Geometri dan Pengukuran",
+      "materi": "Rotasi",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sulit",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Titik (2, 1) diputar 90° berlawanan arah jarum jam dengan pusat O(0,0). Koordinat bayangannya adalah ....",
+      "pilihan": {
+        "A": "(1, −2)",
+        "B": "(−1, 2)",
+        "C": "(−2, −1)",
+        "D": "(2, −1)"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Rotasi 90° berlawanan arah jarum jam mengubah (x,y) menjadi (−y,x), sehingga (2,1) menjadi (−1,2)."
+    },
+    {
+      "id": "TKA9-039",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Geometri dan Pengukuran",
+      "materi": "Dilatasi",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Titik B(−3, 2) didilatasikan dengan pusat O(0,0) dan faktor skala 2. Bayangannya adalah ....",
+      "pilihan": {
+        "A": "(−6, 4)",
+        "B": "(−1, 4)",
+        "C": "(−6, 2)",
+        "D": "(6, −4)"
+      },
+      "jawaban_benar": "A",
+      "pembahasan": "Dilatasi berpusat di O dengan faktor 2 mengalikan setiap koordinat dengan 2."
+    },
+    {
+      "id": "TKA9-040",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Geometri dan Pengukuran",
+      "materi": "Luas lingkaran",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Sebuah lingkaran memiliki jari-jari 7 cm. Dengan π = 22/7, luas lingkaran adalah ....",
+      "pilihan": {
+        "A": "44 cm²",
+        "B": "88 cm²",
+        "C": "154 cm²",
+        "D": "308 cm²"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Luas = πr² = 22/7 × 7 × 7 = 154 cm²."
+    },
+    {
+      "id": "TKA9-041",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Geometri dan Pengukuran",
+      "materi": "Keliling bangun datar",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Sebuah taman berbentuk persegi panjang berukuran 18 m × 12 m. Panjang pagar yang diperlukan untuk mengelilingi taman adalah ....",
+      "pilihan": {
+        "A": "30 m",
+        "B": "48 m",
+        "C": "60 m",
+        "D": "216 m"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Keliling = 2(18+12)=60 m."
+    },
+    {
+      "id": "TKA9-042",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Geometri dan Pengukuran",
+      "materi": "Luas gabungan",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sulit",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Sebuah halaman berbentuk persegi panjang berukuran 14 m × 10 m. Di salah satu sisinya terdapat kolam berbentuk persegi berukuran 4 m × 4 m yang tidak akan dipasang paving. Luas bagian yang dipasang paving adalah ....",
+      "pilihan": {
+        "A": "116 m²",
+        "B": "124 m²",
+        "C": "132 m²",
+        "D": "156 m²"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Luas halaman = 14×10 = 140 m². Luas kolam = 4×4 = 16 m². Luas paving = 140−16 = 124 m²."
+    },
+    {
+      "id": "TKA9-043",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Geometri dan Pengukuran",
+      "materi": "Volume prisma",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Sebuah prisma memiliki luas alas 24 cm² dan tinggi 10 cm. Volumenya adalah ....",
+      "pilihan": {
+        "A": "120 cm³",
+        "B": "240 cm³",
+        "C": "340 cm³",
+        "D": "480 cm³"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Volume prisma = luas alas × tinggi = 24×10=240 cm³."
+    },
+    {
+      "id": "TKA9-044",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Geometri dan Pengukuran",
+      "materi": "Volume bola",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sulit",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Sebuah bola memiliki jari-jari 3 cm. Dengan π = 3,14, volume bola tersebut mendekati ....",
+      "pilihan": {
+        "A": "28,26 cm³",
+        "B": "56,52 cm³",
+        "C": "113,04 cm³",
+        "D": "226,08 cm³"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Volume bola = 4/3 × π × r³ = 4/3 × 3,14 × 27 = 113,04 cm³."
+    },
+    {
+      "id": "TKA9-045",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Geometri dan Pengukuran",
+      "materi": "Jaring-jaring bangun ruang",
+      "level_kognitif": "Knowing",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda_kompleks",
+      "pertanyaan": "Pilih semua pernyataan yang benar tentang jaring-jaring tabung.",
+      "pilihan": {
+        "A": "Terdiri atas satu persegi panjang dan dua lingkaran kongruen",
+        "B": "Dua lingkaran menjadi alas dan tutup tabung",
+        "C": "Terdiri atas enam persegi yang sama besar",
+        "D": "Persegi panjang membentuk selimut tabung"
+      },
+      "jawaban_benar": "A,B,D",
+      "pembahasan": "Jaring-jaring tabung terdiri atas dua lingkaran sama besar dan satu persegi panjang sebagai selimut."
+    },
+    {
+      "id": "TKA9-046",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Data dan Peluang",
+      "materi": "Mean",
+      "level_kognitif": "Knowing",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Nilai ulangan lima siswa adalah 70, 75, 80, 85, dan 90. Rata-ratanya adalah ....",
+      "pilihan": {
+        "A": "78",
+        "B": "80",
+        "C": "82",
+        "D": "85"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Mean = (70+75+80+85+90)/5 = 400/5 = 80."
+    },
+    {
+      "id": "TKA9-047",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Data dan Peluang",
+      "materi": "Median",
+      "level_kognitif": "Knowing",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Data 6, 8, 5, 9, 7, 10, 8 memiliki median ....",
+      "pilihan": {
+        "A": "7",
+        "B": "8",
+        "C": "9",
+        "D": "10"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Urutkan: 5,6,7,8,8,9,10. Nilai tengah adalah 8."
+    },
+    {
+      "id": "TKA9-048",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Data dan Peluang",
+      "materi": "Modus",
+      "level_kognitif": "Knowing",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Data jumlah buku yang dibaca siswa: 2, 3, 4, 3, 5, 3, 4, 2. Modus data tersebut adalah ....",
+      "pilihan": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Angka 3 muncul paling sering, yaitu tiga kali."
+    },
+    {
+      "id": "TKA9-049",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Data dan Peluang",
+      "materi": "Jangkauan",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Data 12, 15, 9, 18, 14, 11 memiliki jangkauan ....",
+      "pilihan": {
+        "A": "6",
+        "B": "8",
+        "C": "9",
+        "D": "10"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Jangkauan = nilai maksimum−minimum = 18−9=9."
+    },
+    {
+      "id": "TKA9-050",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Data dan Peluang",
+      "materi": "Interpretasi tabel",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Data pengunjung perpustakaan selama empat hari adalah Senin 35 orang, Selasa 42 orang, Rabu 38 orang, dan Kamis 45 orang. Selisih pengunjung terbanyak dan tersedikit adalah ....",
+      "pilihan": {
+        "A": "7 orang",
+        "B": "8 orang",
+        "C": "10 orang",
+        "D": "12 orang"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Terbanyak 45 dan tersedikit 35, selisihnya 10 orang."
+    },
+    {
+      "id": "TKA9-051",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Data dan Peluang",
+      "materi": "Diagram lingkaran",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Dalam sebuah kelas terdapat 40 siswa. Sebanyak 25% memilih sepak bola sebagai olahraga favorit. Banyak siswa yang memilih sepak bola adalah ....",
+      "pilihan": {
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "15"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "25% × 40 = 10 siswa."
+    },
+    {
+      "id": "TKA9-052",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Data dan Peluang",
+      "materi": "Membandingkan mean",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sulit",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Kelompok A memiliki nilai 70, 75, 80, 85. Kelompok B memiliki nilai 60, 80, 85, 85. Pernyataan yang benar adalah ....",
+      "pilihan": {
+        "A": "Mean A lebih tinggi",
+        "B": "Mean B lebih tinggi",
+        "C": "Mean kedua kelompok sama",
+        "D": "Median kedua kelompok pasti sama"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Mean A=(310/4)=77,5. Mean B=(310/4)=77,5. Keduanya sama."
+    },
+    {
+      "id": "TKA9-053",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Data dan Peluang",
+      "materi": "Peluang kejadian tunggal",
+      "level_kognitif": "Knowing",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Sebuah dadu bersisi enam dilempar satu kali. Peluang muncul mata dadu lebih dari 4 adalah ....",
+      "pilihan": {
+        "A": "1/6",
+        "B": "1/3",
+        "C": "1/2",
+        "D": "2/3"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Hasil yang memenuhi adalah 5 dan 6, jadi peluang = 2/6 = 1/3."
+    },
+    {
+      "id": "TKA9-054",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Data dan Peluang",
+      "materi": "Peluang koin",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Mudah",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Sebuah koin dilempar satu kali. Peluang muncul sisi angka adalah ....",
+      "pilihan": {
+        "A": "0",
+        "B": "1/4",
+        "C": "1/2",
+        "D": "1"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Koin memiliki dua hasil yang sama mungkin, yaitu angka dan gambar. Peluang angka = 1/2."
+    },
+    {
+      "id": "TKA9-055",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Data dan Peluang",
+      "materi": "Frekuensi relatif",
+      "level_kognitif": "Applying",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Dalam 50 kali percobaan, sebuah dadu menunjukkan angka 6 sebanyak 9 kali. Frekuensi relatif muncul angka 6 adalah ....",
+      "pilihan": {
+        "A": "9%",
+        "B": "18%",
+        "C": "20%",
+        "D": "50%"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Frekuensi relatif = 9/50 = 0,18 = 18%."
+    },
+    {
+      "id": "TKA9-056",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Data dan Peluang",
+      "materi": "Peluang dari benda",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Dalam kantong terdapat 5 bola merah, 3 bola biru, dan 2 bola kuning. Satu bola diambil secara acak. Peluang terambil bola yang bukan biru adalah ....",
+      "pilihan": {
+        "A": "3/10",
+        "B": "1/2",
+        "C": "7/10",
+        "D": "4/5"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Bola bukan biru berjumlah 5+2=7 dari total 10, sehingga peluangnya 7/10."
+    },
+    {
+      "id": "TKA9-057",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Data dan Peluang",
+      "materi": "Pengumpulan data",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sedang",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "OSIS ingin mengetahui jenis kegiatan ekstrakurikuler yang paling diminati siswa kelas 9. Cara pengumpulan data yang paling tepat adalah ....",
+      "pilihan": {
+        "A": "Mengukur tinggi badan siswa",
+        "B": "Mewawancarai satu orang guru",
+        "C": "Menyebarkan angket kepada siswa kelas 9",
+        "D": "Menghitung jumlah ruang kelas"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Angket kepada siswa kelas 9 langsung mengumpulkan preferensi dari kelompok sasaran."
+    },
+    {
+      "id": "TKA9-058",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Data dan Peluang",
+      "materi": "Perbandingan penyebaran",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sulit",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Kelompok X memiliki data 8, 9, 10, 11, 12. Kelompok Y memiliki data 4, 8, 10, 12, 16. Kedua kelompok memiliki mean yang sama. Pernyataan yang tepat adalah ....",
+      "pilihan": {
+        "A": "Jangkauan X lebih besar",
+        "B": "Jangkauan Y lebih besar",
+        "C": "Jangkauan keduanya sama",
+        "D": "Mean Y lebih besar"
+      },
+      "jawaban_benar": "B",
+      "pembahasan": "Jangkauan X=12−8=4, sedangkan Y=16−4=12. Jadi jangkauan Y lebih besar."
+    },
+    {
+      "id": "TKA9-059",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Data dan Peluang",
+      "materi": "Analisis data gabungan",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sulit",
+      "tipe_soal": "pilihan_ganda_kompleks",
+      "pertanyaan": "Nilai lima siswa adalah 6, 7, 8, 8, 11. Pilih semua pernyataan yang benar.",
+      "pilihan": {
+        "A": "Mean data adalah 8",
+        "B": "Median data adalah 8",
+        "C": "Modus data adalah 8",
+        "D": "Jangkauan data adalah 4"
+      },
+      "jawaban_benar": "A,B,C",
+      "pembahasan": "Jumlah data 40 sehingga mean=8. Median=8, modus=8, jangkauan=11−6=5, jadi D salah."
+    },
+    {
+      "id": "TKA9-060",
+      "jenjang": "SMP",
+      "kelas": 9,
+      "mata_pelajaran": "Matematika",
+      "elemen": "Data dan Peluang",
+      "materi": "Peluang dan frekuensi",
+      "level_kognitif": "Reasoning",
+      "tingkat_kesulitan": "Sulit",
+      "tipe_soal": "pilihan_ganda",
+      "pertanyaan": "Sebuah roda putar memiliki 8 bagian sama besar bernomor 1 sampai 8. Jika diputar 120 kali, frekuensi harapan muncul bilangan genap adalah ....",
+      "pilihan": {
+        "A": "30 kali",
+        "B": "45 kali",
+        "C": "60 kali",
+        "D": "90 kali"
+      },
+      "jawaban_benar": "C",
+      "pembahasan": "Ada 4 bilangan genap dari 8 bagian, peluang=1/2. Frekuensi harapan=120×1/2=60."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "TKA SMP Pintar",
+  "description": "Aplikasi CBT Try Out TKA SMP dengan pembahasan soal lengkap, modul siswa dan proktor, import data siswa, bank soal terenkripsi AES, serta dasbor monitoring nilai real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
